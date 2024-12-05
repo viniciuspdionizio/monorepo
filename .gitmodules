@@ -1,0 +1,6 @@
+[submodule "child-repo-1"]
+	path = child-repo-1
+	url = git@github.com:viniciuspdionizio/child-repo-1.git
+[submodule "child-repo-2"]
+	path = child-repo-2
+	url = git@github.com:viniciuspdionizio/child-repo-2.git
